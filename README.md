@@ -5,9 +5,6 @@ A curated list of property inference attacks and defenses papers.
 
 Paper are sorted by their released dates in descending order.
 
-<! --This repository serves as a complement of the survey below.-->
-<! --If you feel this repository is helpful, please cite the survey above.-->
-
 ## How to Search?
 Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers.
 
