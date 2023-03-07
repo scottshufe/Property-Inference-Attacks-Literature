@@ -27,7 +27,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2022 | **Property Inference Attacks against GANs** | Black-box;Partial black-box | Generative model | NDSS | [Link](https://arxiv.org/abs/2111.07608) | |
 | 2022 | **Group Property Inference Attacks Against Graph Neural Networks** | White-box;Black-box | GNNs | CSS | [Link](https://dl.acm.org/doi/abs/10.1145/3548606.3560662) | |
-| 2022 | **Property Inference from Poisoning** | unknown | unknown | S&P | [Link](https://ieeexplore.ieee.org/abstract/document/9833623) | |
+| 2022 | **Property Inference from Poisoning** | Black-box | Classification Model | S&P | [Link](https://ieeexplore.ieee.org/abstract/document/9833623) | |
 | 2022 | **Poisoning-Assisted Property Inference Attack against Federated Learning** | unknown | unknown | TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/9851511) | |
 | 2022 | **Formalizing Distribution Inference Risks** | unknown | unknown | PETS | [Link](https://arxiv.org/abs/2106.03699) | | 
 | 2022 | **Inference Attacks Against Graph Neural Networks** | Black-box | GNNs | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zhikun) | | 
