@@ -27,15 +27,15 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2022 | **Property Inference Attacks against GANs** | Black-box;Partial black-box | Generative model | NDSS | [Link](https://arxiv.org/abs/2111.07608) | |
 | 2022 | **Group Property Inference Attacks Against Graph Neural Networks** | White-box;Black-box | GNNs | CSS | [Link](https://dl.acm.org/doi/abs/10.1145/3548606.3560662) | |
-| 2022 | **Property Inference from Poisoning** | Black-box | Classification Model | S&P | [Link](https://ieeexplore.ieee.org/abstract/document/9833623) | |
+| 2022 | **Property Inference from Poisoning** | Black-box | Classification model | S&P | [Link](https://ieeexplore.ieee.org/abstract/document/9833623) | |
 | 2022 | **Poisoning-Assisted Property Inference Attack against Federated Learning** | unknown | unknown | TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/9851511) | |
-| 2022 | **Formalizing Distribution Inference Risks** | unknown | unknown | PETS | [Link](https://arxiv.org/abs/2106.03699) | |
+| 2022 | **Formalizing Distribution Inference Risks** | Black-box | Classification model;GNNs | PETS | [Link](https://arxiv.org/abs/2106.03699) | |
 | 2022 | **Inference Attacks Against Graph Neural Networks** | Black-box | GNNs | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zhikun) | |
 
 ### Attack Papers 2021 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2021 | **Leakage of Dataset Properties in Multi-Party Machine Learning** | unknown | unknown | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong) | |
+| 2021 | **Leakage of Dataset Properties in Multi-Party Machine Learning** | Black-box | Classification model | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong) | |
 | 2021 | **Unleashing the Tiger: Inference Attacks on Split Learning** | unknown | unknown | CCS | [Link](https://dl.acm.org/doi/10.1145/3460120.3485259) | |
 | 2021 | **Property Inference Attacks on Convolutional Neural Networks: Influence and Implications of Target Model's Complexity** | unknown | Classification model | arXiv | [Link](https://arxiv.org/abs/2104.13061) | |
 
