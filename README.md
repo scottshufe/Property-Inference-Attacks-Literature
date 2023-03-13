@@ -53,7 +53,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2015 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2015 | **Hacking Smart Machines with Smarter Ones: How to Extract Meaningful Data from Machine Learning Classifiers** | White-box | HMMs and SVMs | CCS | [Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJSN.2015.071829) | |
+| 2015 | **Hacking Smart Machines with Smarter Ones: How to Extract Meaningful Data from Machine Learning Classifiers** | White-box | HMMs and SVMs | International Journal of Security and Networks | [Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJSN.2015.071829) | |
 
 
 ## Property Inference Defenses
