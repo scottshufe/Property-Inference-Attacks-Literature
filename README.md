@@ -18,7 +18,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2023 | **Dissecting Distribution Inference** | Black-box | Classification model | CVPR | [Link](https://arxiv.org/abs/2212.07591) | [Link](https://github.com/iamgroot42/dissecting_dist_inf) |
+| 2023 | **Dissecting Distribution Inference** | Black-box | Classification model | IEEE SaTML | [Link](https://arxiv.org/abs/2212.07591) | [Link](https://github.com/iamgroot42/dissecting_dist_inf) |
 | 2023 | **Property Inference Attacks Against t-SNE Plots** | unknown | unknown | openreview | [Link](https://openreview.net/forum?id=q5ZwEiLzDft) | |
 | 2023 | **SNAP: Efficient Extraction of Private Properties with Poisoning** | Black-box | Classification model | S&P | [Link](https://arxiv.org/abs/2208.12348) | |
 
