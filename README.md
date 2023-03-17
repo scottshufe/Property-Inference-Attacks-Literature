@@ -61,9 +61,9 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2022 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2022 |**Property Unlearning: A Defense Strategy Against Property Inference Attacks** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2205.08821) | |
-| 2022 |**Distribution Inference Risks: Identifying and Mitigating Sources of Leakage** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2106.03699) | |
-| 2022 |**Protecting Global Properties of Datasets with Distribution Privacy Mechanisms** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2106.03699) | |
+| 2022 |**Lessons Learned: How (Not) to Defend Against Property Inference Attacks** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2205.08821) | |
+| 2022 |**Distribution Inference Risks: Identifying and Mitigating Sources of Leakage** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2209.08541) | [Link](https://github.com/epfl-dlab/distribution-inference-risks) |
+| 2022 |**Protecting Global Properties of Datasets with Distribution Privacy Mechanisms** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2207.08367) | |
 
 ### Defense Papers 2021 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
