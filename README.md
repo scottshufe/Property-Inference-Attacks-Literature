@@ -21,6 +21,8 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2023 | **Dissecting Distribution Inference** | Black-box | Classification model | IEEE SaTML | [Link](https://arxiv.org/abs/2212.07591) | [Link](https://github.com/iamgroot42/dissecting_dist_inf) |
 | 2023 | **Property Inference Attacks Against t-SNE Plots** | unknown | unknown | openreview | [Link](https://openreview.net/forum?id=q5ZwEiLzDft) | |
 | 2023 | **SNAP: Efficient Extraction of Private Properties with Poisoning** | Black-box | Classification model | S&P | [Link](https://arxiv.org/abs/2208.12348) | |
+| 2023 | **SoK: Let the Privacy Games Begin! A Unified Treatment of Data Inference Privacy in Machine Learning** | unknown | Classification model | S&P | [Link](https://arxiv.org/abs/2212.10986) | |
+| 2023 |**Manipulating Transfer Learning for Property Inference** | unknown | unknown | CVPR | [Link](https://arxiv.org/abs/2303.11643) | |
 
 ### Attack Papers 2022 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
@@ -31,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2022 | **Poisoning-Assisted Property Inference Attack against Federated Learning** | unknown | unknown | TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/9851511) | |
 | 2022 | **Formalizing and Estimating Distribution Inference Risks** | Black-box;White-box | Classification model;GNNs | PETS | [Link](https://arxiv.org/abs/2109.06024) | [link](https://github.com/iamgroot42/FormEstDistRisks) |
 | 2022 | **Inference Attacks Against Graph Neural Networks** | Black-box | GNNs | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zhikun) | |
+| 2022 | **Black-Box Audits for Group Distribution Shifts** | Black-box | Classification model | arXiv | [Link](https://arxiv.org/abs/2209.03620) | |
 
 ### Attack Papers 2021 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
@@ -57,6 +60,13 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
 ## Property Inference Defenses
+
+### Defense Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 |**Secure Split Learning against Property Inference, Data Reconstruction, and Feature Space Hijacking Attacks** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2304.09515) | |
+| 2023 |**Protecting Global Properties of Datasets with Distribution Privacy Mechanisms** | unknown | unknown | AISTATS | [Link](https://proceedings.mlr.press/v206/chen23f.html) | |
+| 2023 |**Summary Statistic Privacy in Data Sharing** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2303.02014) | |
 
 ### Defense Papers 2022 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
