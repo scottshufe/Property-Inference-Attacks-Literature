@@ -11,7 +11,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ## Quick Links
 **Attack papers sorted by year:** | [2023](#attack-papers-2022-back-to-top) | [2022](#attack-papers-2022-back-to-top) | [2021](#attack-papers-2021-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2015](#attack-papers-2015-back-to-top) |
 
-**Defense papers sorted by year:** | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) |
+**Defense papers sorted by year:** | [2023](#defense-papers-2023-back-to-top) | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) |
 
 ## Property Inference Attacks
 
