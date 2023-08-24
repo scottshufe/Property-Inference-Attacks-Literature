@@ -33,7 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2022 | **Group Property Inference Attacks Against Graph Neural Networks** | White-box;Black-box | GNNs | CSS | [Link](https://dl.acm.org/doi/abs/10.1145/3548606.3560662) | |
 | 2022 | **Property Inference from Poisoning** | Black-box | Classification model | S&P | [Link](https://ieeexplore.ieee.org/abstract/document/9833623) | |
 | 2022 | **Poisoning-Assisted Property Inference Attack against Federated Learning** | unknown | unknown | TDSC | [Link](https://ieeexplore.ieee.org/abstract/document/9851511) | |
-| 2022 | **Formalizing and Estimating Distribution Inference Risks** | Black-box;White-box | Classification model;GNNs | PETS | [Link](https://arxiv.org/abs/2109.06024) | [link](https://github.com/iamgroot42/FormEstDistRisks) |
+| 2022 | **Formalizing and Estimating Distribution Inference Risks** | Black-box;White-box | Classification model;GNNs | PETS | [Link](https://arxiv.org/abs/2109.06024) | [Link](https://github.com/iamgroot42/FormEstDistRisks) |
 | 2022 | **Inference Attacks Against Graph Neural Networks** | Black-box | GNNs | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zhikun) | |
 | 2022 | **Black-Box Audits for Group Distribution Shifts** | Black-box | Classification model | arXiv | [Link](https://arxiv.org/abs/2209.03620) | |
 
