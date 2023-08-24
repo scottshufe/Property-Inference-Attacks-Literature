@@ -41,7 +41,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2021 | **Leakage of Dataset Properties in Multi-Party Machine Learning** | Black-box | Classification model | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong) | |
-| 2021 | **Unleashing the Tiger: Inference Attacks on Split Learning** | unknown | unknown | CCS | [Link](https://dl.acm.org/doi/10.1145/3460120.3485259) | |
+| 2021 | **Unleashing the Tiger: Inference Attacks on Split Learning** | Splitting | Classification model | CCS | [Link](https://dl.acm.org/doi/10.1145/3460120.3485259) | [Link](https://github.com/pasquini-dario/SplitNN_FSHA) |
 | 2021 | **Property Inference Attacks on Convolutional Neural Networks: Influence and Implications of Target Model's Complexity** | unknown | Classification model | arXiv | [Link](https://arxiv.org/abs/2104.13061) | |
 
 ### Attack Papers 2019 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
