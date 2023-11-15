@@ -9,15 +9,19 @@ Paper are sorted by their released dates in descending order.
 Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e.g., ```Black-box```), or target model (e.g., ```Classification Model```) over the webpage to quickly locate related papers.
 
 ## Quick Links
-**Attack papers sorted by year:** | [2023](#attack-papers-2022-back-to-top) | [2022](#attack-papers-2022-back-to-top) | [2021](#attack-papers-2021-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2015](#attack-papers-2015-back-to-top) |
+**Attack papers sorted by year:** | [2024](#attack-papers-2024-back-to-top) | [2023](#attack-papers-2023-back-to-top) | [2022](#attack-papers-2022-back-to-top) | [2021](#attack-papers-2021-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2015](#attack-papers-2015-back-to-top) |
 
 **Defense papers sorted by year:** | [2023](#defense-papers-2023-back-to-top) | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) |
 
 ## Property Inference Attacks
 
-### Attack Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
+### Attack Papers 2024 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2023 | **Quantifying Privacy Risks of Prompts in Visual Prompt Learning** | Black-box | Visual Prompt Learning | USENIX | [Link](https://arxiv.org/abs/2310.11970) | [Link](https://github.com/yxoh/prompt_leak_usenix2024/) |
+
+### Attack Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 | 2023 | **Attesting Distributional Properties of Training Data for Machine Learning** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2308.09552) |  |
 | 2023 | **Distribution Inference Risks: Identifying and Mitigating Sources of Leakage** | Black-box;White-box | Classification model | IEEE SaTML | [Link](https://arxiv.org/abs/2209.08541) | [Link](https://github.com/epfl-dlab/distribution-inference-risks) |
 | 2023 | **Dissecting Distribution Inference** | Black-box | Classification model | IEEE SaTML | [Link](https://arxiv.org/abs/2212.07591) | [Link](https://github.com/iamgroot42/dissecting_dist_inf) |
