@@ -11,14 +11,17 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ## Quick Links
 **Attack papers sorted by year:** | [2024](#attack-papers-2024-back-to-top) | [2023](#attack-papers-2023-back-to-top) | [2022](#attack-papers-2022-back-to-top) | [2021](#attack-papers-2021-back-to-top) | [2019](#attack-papers-2019-back-to-top) | [2018](#attack-papers-2018-back-to-top) | [2015](#attack-papers-2015-back-to-top) |
 
-**Defense papers sorted by year:** | [2023](#defense-papers-2023-back-to-top) | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) |
+**Defense papers sorted by year:** | [2024](#defense-papers-2024-back-to-top) | [2023](#defense-papers-2023-back-to-top) | [2022](#defense-papers-2022-back-to-top) | [2021](#defense-papers-2021-back-to-top) |
 
 ## Property Inference Attacks
 
 ### Attack Papers 2024 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2023 | **Quantifying Privacy Risks of Prompts in Visual Prompt Learning** | Black-box | Visual Prompt Learning | USENIX | [Link](https://arxiv.org/abs/2310.11970) | [Link](https://github.com/yxoh/prompt_leak_usenix2024/) |
+| 2024 | **Quantifying Privacy Risks of Prompts in Visual Prompt Learning** | Black-box | Visual Prompt Learning | USENIX | [Link](https://arxiv.org/abs/2310.11970) | [Link](https://github.com/yxoh/prompt_leak_usenix2024/) |
+| 2024 | **Attesting Distributional Properties of Training Data for Machine Learning** | Black-box | Classification model | ESORICS | [Link](https://arxiv.org/abs/2308.09552) | [Link](https://github.com/ssg-research/distribution-attestation) |
+| 2024 | **Property Existence Inference against Generative Models** | Black-box | Generative model | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-lijin) | [Link](https://github.com/wljLlla/PEI_Code) |
+| 2024 | **Property Inference as a Regression Problem: Attacks and Defense** | Black-box;White-box | Classification model | SECRYPT | [Link](https://www.insticc.org/node/TechnicalProgram/SECRYPT/2024/presentationDetails/128638) | |
 
 ### Attack Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
@@ -30,6 +33,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2023 | **SNAP: Efficient Extraction of Private Properties with Poisoning** | Black-box | Classification model | S&P | [Link](https://arxiv.org/abs/2208.12348) | |
 | 2023 | **SoK: Let the Privacy Games Begin! A Unified Treatment of Data Inference Privacy in Machine Learning** | unknown | Classification model | S&P | [Link](https://arxiv.org/abs/2212.10986) | |
 | 2023 |**Manipulating Transfer Learning for Property Inference** | unknown | unknown | CVPR | [Link](https://arxiv.org/abs/2303.11643) | |
+| 2023 |**Exploring Clustered Federated Learning’s Vulnerability against Property Inference Attack** | White-box | Federated learning | RAID | [Link](https://dl.acm.org/doi/abs/10.1145/3607199.3607218) | |
 
 ### Attack Papers 2022 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
@@ -67,6 +71,10 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 
 
 ## Property Inference Defenses
+### Defense Papers 2024 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
+| Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
+|-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Property Inference as a Regression Problem: Attacks and Defense** | Black-box;White-box | Classification model | SECRYPT | [Link](https://www.insticc.org/node/TechnicalProgram/SECRYPT/2024/presentationDetails/128638) | |
 
 ### Defense Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
