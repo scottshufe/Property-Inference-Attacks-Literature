@@ -73,12 +73,14 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2024 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving Representations against Inference Attacks** | Black-box | Classification model | USENIX | [Link](https://www.usenix.org/system/files/sec24fall-prepub-1985-noorbakhsh.pdf) | https://github.com/leilynourbakhsh/Inf2Guard |
 | 2024 | **Property Inference as a Regression Problem: Attacks and Defense** | Black-box;White-box | Classification model | SECRYPT | [Link](https://www.insticc.org/node/TechnicalProgram/SECRYPT/2024/presentationDetails/128638) | |
 
 ### Defense Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
 | 2023 | **PriSampler: Mitigating Property Inference of Diffusion Models** | unknown | Diffusion model | arXiv | [Link](https://arxiv.org/abs/2306.05208) | |
+| 2022 | **Lessons Learned: Defending Against Property Inference Attacks** | unknown | unknown | SECRYPT | [Link](https://www.scitepress.org/Papers/2023/120492/120492.pdf) | |
 | 2023 | **Distribution Inference Risks: Identifying and Mitigating Sources of Leakage** | Black-box;White-box | Classification model | IEEE SaTML | [Link](https://arxiv.org/abs/2209.08541) | [Link](https://github.com/epfl-dlab/distribution-inference-risks) |
 | 2023 |**Secure Split Learning against Property Inference, Data Reconstruction, and Feature Space Hijacking Attacks** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2304.09515) | |
 | 2023 |**Protecting Global Properties of Datasets with Distribution Privacy Mechanisms** | White-box | Classification | AISTATS | [Link](https://proceedings.mlr.press/v206/chen23f.html) | [Link](https://github.com/mgcsls/mechanisms-global-properties) |
