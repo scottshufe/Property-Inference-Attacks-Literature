@@ -73,7 +73,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Defense Papers 2024 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2024 | **Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving Representations against Inference Attacks** | Black-box | Classification model | USENIX | [Link](https://www.usenix.org/system/files/sec24fall-prepub-1985-noorbakhsh.pdf) | https://github.com/leilynourbakhsh/Inf2Guard |
+| 2024 | **Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving Representations against Inference Attacks** | Black-box | Classification model | USENIX | [Link](https://www.usenix.org/system/files/sec24fall-prepub-1985-noorbakhsh.pdf) | [Link](https://github.com/leilynourbakhsh/Inf2Guard) |
 | 2024 | **Property Inference as a Regression Problem: Attacks and Defense** | Black-box;White-box | Classification model | SECRYPT | [Link](https://www.insticc.org/node/TechnicalProgram/SECRYPT/2024/presentationDetails/128638) | |
 
 ### Defense Papers 2023 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
