@@ -84,7 +84,6 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2023 | **Distribution Inference Risks: Identifying and Mitigating Sources of Leakage** | Black-box;White-box | Classification model | IEEE SaTML | [Link](https://arxiv.org/abs/2209.08541) | [Link](https://github.com/epfl-dlab/distribution-inference-risks) |
 | 2023 |**Secure Split Learning against Property Inference, Data Reconstruction, and Feature Space Hijacking Attacks** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2304.09515) | |
 | 2023 |**Protecting Global Properties of Datasets with Distribution Privacy Mechanisms** | White-box | Classification | AISTATS | [Link](https://proceedings.mlr.press/v206/chen23f.html) | [Link](https://github.com/mgcsls/mechanisms-global-properties) |
-| 2023 |**Summary Statistic Privacy in Data Sharing** | unknown | unknown | arXiv | [Link](https://arxiv.org/abs/2303.02014) | |
 
 ### Defense Papers 2022 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
