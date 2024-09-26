@@ -18,6 +18,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2024 [[Back to Top](#property-inference-attacks-and-defenses-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
+| 2024 | **Towards More Efficient Property Inference Attacks on Graph Neural Networks** | Black-box | GNNs | NIPS | [Link]() | [Link]() |
 | 2024 | **Quantifying Privacy Risks of Prompts in Visual Prompt Learning** | Black-box | Visual Prompt Learning | USENIX | [Link](https://arxiv.org/abs/2310.11970) | [Link](https://github.com/yxoh/prompt_leak_usenix2024/) |
 | 2024 | **Attesting Distributional Properties of Training Data for Machine Learning** | Black-box | Classification model | ESORICS | [Link](https://arxiv.org/abs/2308.09552) | [Link](https://github.com/ssg-research/distribution-attestation) |
 | 2024 | **Property Existence Inference against Generative Models** | Black-box | Generative model | USENIX | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-lijin) | [Link](https://github.com/wljLlla/PEI_Code) |
